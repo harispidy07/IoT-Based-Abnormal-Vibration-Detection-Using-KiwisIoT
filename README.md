@@ -62,7 +62,7 @@ Upload the code to the NodeMCU ESP8266 and monitor abnormal vibrations through t
 [https://www.hackster.io/harispidy07/iot-based-abnormal-vibration-detection-using-kiwisiot-c4ad61](https://www.hackster.io/harispidy07/iot-based-abnormal-vibration-detection-using-kiwisiot-c4ad61)
 
 **KiwisIoT Platform:**  
-[https://kiwisiot.com/](https://kiwisiot.com/)
+[https://kiwisiot.in/](https://kiwisiot.in/)
 
 **KiwisIoT GitHub Repository:**  
 [https://github.com/Kiwistron/KiwisIoT-Projects](https://github.com/Kiwistron/KiwisIoT-Projects)
